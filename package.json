@@ -1,6 +1,6 @@
 {
   "name": "mantis-packer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NPM package template",
   "main": "index.min.js",
   "scripts": {
